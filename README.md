@@ -2,5 +2,5 @@
 Technologies used: Nodejs, expressjs, MongoDB
 
 # Functionality
-User register -> Login -> Authenticaltion using Json Web Tokens(JWT)
+User register -> Login -> Authentication using Json Web Tokens(JWT)
 User wise contact Post, Update & Delete operations
